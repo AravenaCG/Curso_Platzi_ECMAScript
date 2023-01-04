@@ -1,0 +1,24 @@
+{
+  "name": "curso_platzi_ecmascript",
+  "version": "1.0.0",
+  "description": "curso ECMASCript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravenaCG/Curso_Platzi_ECMAScript.git"
+  },
+  "keywords": [
+    "JS",
+    "Javascript",
+    "ecmascript"
+  ],
+  "author": "Aravena Cristian <cristian.g.aravena@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AravenaCG/Curso_Platzi_ECMAScript/issues"
+  },
+  "homepage": "https://github.com/AravenaCG/Curso_Platzi_ECMAScript#readme"
+}
